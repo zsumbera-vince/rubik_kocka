@@ -29,6 +29,8 @@ p{
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
+background-color: gray;
+    font-style: italic;
 }
 
 li{
