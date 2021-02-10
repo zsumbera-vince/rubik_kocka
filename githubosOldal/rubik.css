@@ -12,8 +12,8 @@ body{
   float:left;  
 }
 
-h1{
-  margin: 40px 0px 100px 175px;
+h2,h3{
+  margin: 10px 10px 10px 10px;
 }
 
 p{
